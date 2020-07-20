@@ -9,9 +9,9 @@ My name is **David**, I am a data scientist who really likes playing around with
 [![Gmail Badge](https://img.shields.io/badge/-david.carricondo.sanchez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:david.carricondo.sanchez@gmail.com)](mailto:david.carricondo.sanchez@gmail.com)
 ***
 <br>
-<img align='right' height=250 src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif">
+<img align='right' height=200 src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif">
 &nbsp;
-&nbsp;
+
 - 🔭 I’m currently working on a [review analyzer dashboard](https://github.com/DavidCarricondo/selenium-NLP)
 - 🌱 I’m currently learning **all about DL**
 - 👯 I’m looking to collaborate on anything, really
