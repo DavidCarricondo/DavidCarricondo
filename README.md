@@ -10,13 +10,15 @@ My name is **David**, I am a data scientist who really likes playing around with
 ***
 <br>
 <img align='right' height=250 src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif">
-
+&nbsp;
+&nbsp;
 - 🔭 I’m currently working on a [review analyzer dashboard](https://github.com/DavidCarricondo/selenium-NLP)
 - 🌱 I’m currently learning **all about DL**
 - 👯 I’m looking to collaborate on anything, really
 - 🤔 I’m looking for help with landing a data science job
 - 💬 Ask me about ecological models, statistisc...
 - ⚡ Fun fact: No, I don't know what color is that; yes, I am daltonic
+&nbsp;
 &nbsp;
 
 ***
