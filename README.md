@@ -17,7 +17,7 @@ My name is **David**, I am a data scientist who really likes playing around with
 - 👯 I’m looking to collaborate on anything, really
 - 🤔 I’m looking for help with landing a data science job
 - 💬 Ask me about ecological models, statistisc...
-- ⚡ Fun fact: No, I don't know what color is that; yes, I am daltonic
+- ⚡ Fun fact: Right after writing this, my girl went into labor and I had my first child :baby:
 &nbsp;
 &nbsp;
 
@@ -32,10 +32,10 @@ My name is **David**, I am a data scientist who really likes playing around with
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-</center>
 <br>
 <div style='text-align: center'>
 <img src="https://github-readme-stats.vercel.app/api?username=DavidCarricondo&show_icons=true&theme=radical" align='center'></div></br>
+</center>
 
 <!--
 **DavidCarricondo/DavidCarricondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
