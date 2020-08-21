@@ -7,10 +7,15 @@ My name is **David**, I am a data scientist who really likes playing around with
 
 [![Linkedin Badge](https://img.shields.io/badge/-David_Carricondo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/midhruvjaink/)](https://www.linkedin.com/in/david-carricondo-sanchez/)
 [![Gmail Badge](https://img.shields.io/badge/-david.carricondo.sanchez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:david.carricondo.sanchez@gmail.com)](mailto:david.carricondo.sanchez@gmail.com)
+
+Or you can take a better look at my projects here:
+
+[![Gmail Badge](https://img.shields.io/badge/-David's_Portfolio-279150?style=flat-square&link=https://david-carricondo-portfolio.herokuapp.com/)](https://david-carricondo-portfolio.herokuapp.com/)
 ***
 <br>
 <img align='right' height=200 src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif">
 &nbsp;
+
 
 - 🔭 I’m currently working on a [review analyzer dashboard](https://github.com/DavidCarricondo/selenium-NLP)
 - 🌱 I’m currently learning **all about DL**
