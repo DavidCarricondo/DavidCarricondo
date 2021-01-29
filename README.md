@@ -17,7 +17,7 @@ Or you can take a better look at my projects here:
 &nbsp;
 
 
-- 🔭 I’m currently working on a [review analyzer dashboard](https://github.com/DavidCarricondo/selenium-NLP)
+- 🔭 I’m currently working on a [Twitter bot with Lambda Functions](https://github.com/DavidCarricondo/murphys_bot)
 - 🌱 I’m currently learning **all about DL**
 - 👯 I’m looking to collaborate on anything, really
 - 🤔 I’m looking for help with landing a data science job
