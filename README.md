@@ -1,3 +1,18 @@
+<style>
+.center1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+}
+
+</style>
 # Hello stranger, welcome to my github profile <code><img height="30" src="Octocat.png"></code>!! 👋
 
 
@@ -29,10 +44,11 @@ Or you can take a better look at my projects here:
 &nbsp;
 
 ***
-<center>
+<div class=center1>
 
-**Here are some languages and tools I usually use:**
-
+**Here are some languages and tools I usually use:**  
+</div>
+<div class=center1>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
@@ -40,9 +56,10 @@ Or you can take a better look at my projects here:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <br>
-<div style='text-align: center'>
+</div>
+
+<div class= center style='text-align: center'>
 <img src="https://github-readme-stats.vercel.app/api?username=DavidCarricondo&show_icons=true&theme=radical" align='center'></div></br>
-</center>
 
 <!--
 **DavidCarricondo/DavidCarricondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
