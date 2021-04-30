@@ -1,7 +1,9 @@
 # Hello stranger, welcome to my github profile <code><img height="30" src="Octocat.png"></code>!! 👋
 
 
-My name is **David**, I am a data scientist who really likes playing around with models and hitting my head against the wall for non-working code :sweat_smile:. You can also reach me here:
+My name is **David**, I am a data scientist working at [Carity.ai](https://clarity.ai/) who really likes playing around with models and hitting my head against the wall for non-working code :sweat_smile:.  
+
+You can also reach me here:
 
 
 
@@ -17,11 +19,11 @@ Or you can take a better look at my projects here:
 &nbsp;
 
 
-- 🔭 I’m currently working on a [Twitter bot with Lambda Functions](https://github.com/DavidCarricondo/murphys_bot)
-- 🌱 I’m currently learning **all about DL**
+- 🔭 I’m currently working on a [Cartoonify web app](https://github.com/DavidCarricondo/cartoonify-app)
+- 🌱 I’m currently learning about **ML Engineering**
 - 👯 I’m looking to collaborate on anything, really
-- 🤔 I’m looking for help with landing a data science job
-- 💬 Ask me about ecological models, statistisc...
+- 🤔 I’m looking for help with bugs, bugs everywhere...
+- 💬 Ask me about ecological models, statistisc, fancy algorithms that don't work
 - ⚡ Fun fact: Right after writing this, my girl went into labor and I had my first child :baby:
 &nbsp;
 &nbsp;
